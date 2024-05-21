@@ -1,0 +1,8 @@
+csv
+prettytable
+matplotlib
+ipympl
+jupyter notebook
+unittest
+pytest
+patch
