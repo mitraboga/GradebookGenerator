@@ -1,8 +1,7 @@
    # Gradebook Generator - CS50P Final Project
-    #### Video Demo:  <https://youtu.be/m8qcIzR_kCo>
-    #### Description:
+      #### Video Demo:  <https://youtu.be/m8qcIzR_kCo>
 
-## Breakdown
+## Description
 
 For my final project in CS50P, I have chosen to create a Gradebook Generator. This project embodies the essence of what I believe to be an invaluable tool for students who wish to easily visualize their grades and track their academic progress over time. The Gradebook Generator provides a highly efficient and user-friendly solution for creating and maintaining a spreadsheet that keeps tabs on one's grades throughout high school or university.
 
