@@ -13,19 +13,19 @@ In addition to generating a visual Gradebook, my program also creates a CSV (com
 
 Furthermore, the Gradebook Generator includes a feature that generates a bar graph saved as 'avg_comparison.png' using the matplotlib library. This graph provides a visual comparison of the user's academic performance over the years. By presenting the data in a graphical format, students can more easily discern trends in their academic performance, such as improvements or declines in their grades over time. This visual representation adds an extra layer of insight, helping students to better understand their academic journey.
 
----
+--
 
 ## Uniqueness
 
 One of the standout aspects of my project is its user-centric design. The program's prompts are clear and concise, ensuring that users are never left confused about what data they need to input. Additionally, the use of the 'prettytable' functionality ensures that the generated Gradebook is not only informative but also aesthetically pleasing. This attention to detail enhances the overall user experience, making the Gradebook Generator a tool that students will find both practical and enjoyable to use.
 
----
+--
 
 ## Summary
 
 In summary, my final project for CS50P, the Gradebook Generator, is a comprehensive tool designed to help students visualize and track their academic progress. By providing a user-friendly interface, generating organized and visually appealing Gradebooks, and offering additional features such as CSV file export and graphical performance comparisons, my program addresses the needs of students who seek an efficient and effective way to manage their grades. I am confident that this project will prove to be a valuable resource for students and contribute positively to their academic experience. Thank you!
 
----
+--
 
 ## 👤 Author
 
