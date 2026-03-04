@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/CSV-Export%20to%20Sheets%2FExcel-0F9D58?logo=googlesheets&logoColor=white" alt="CSV Export" />
   <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Pytest-Unit%20Tests-0A9EDC?logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Mocking-unittest.mock.patch-6A5ACD" alt="unittest.mock.patch" />
 </p>
 
 ---
@@ -178,6 +177,10 @@ It uses `unittest.mock.patch` to simulate user input without manual typing.
 ```bash
 pytest -q
 ```
+
+<p align="center">
+  <img src="CS50P Final Project Unit Tests.png" width="1000" alt="Pytest Unit Tests - 3 Passed"/>
+</p>
 
 ---
 
