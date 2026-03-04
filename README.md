@@ -69,11 +69,29 @@ For every semester, the program prints a **PrettyTable** showing:
 
 This makes results **readable instantly** without needing Excel first.
 
-<p align="center">
-  <img src="Terminal Gradebook 1.png" width="200" alt="PrettyTable Output - Part 1" />
-  <img src="Terminal Gradebook 2.png" width="200" alt="PrettyTable Output - Part 2" />
-  <img src="Terminal Gradebook 3.png" width="200" alt="PrettyTable Output - Part 3" />
-</p>
+<details>
+  <summary><b>PrettyTable Output — Part 1</b></summary>
+  <br/>
+  <p align="center">
+    <img src="Terminal Gradebook 1.png" width="1000" alt="PrettyTable Output - Part 1"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>PrettyTable Output — Part 2</b></summary>
+  <br/>
+  <p align="center">
+    <img src="Terminal Gradebook 2.png" width="1000" alt="PrettyTable Output - Part 2"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>PrettyTable Output — Part 3</b></summary>
+  <br/>
+  <p align="center">
+    <img src="Terminal Gradebook 3.png" width="1000" alt="PrettyTable Output - Part 3"/>
+  </p>
+</details>
 
 ---
 
